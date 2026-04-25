@@ -27,7 +27,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently building a **dating app**
-- 🌱 Learning **React Native** & **Django**
+- 🌱 Learning **AI Full Stack development**
 - 👯 Open to collaborating on my dating app project
 - 💬 Ask me about **anything** — I'm happy to chat!
 - 😄 Pronouns: **he/him**
