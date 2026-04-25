@@ -37,14 +37,60 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![SQL](https://img.shields.io/badge/SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+
+**AI & LLM Technologies**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
+![Gemini](https://img.shields.io/badge/Gemini-informational?style=flat&logo=googlegemini&logoColor=white&color=2bbc8a)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-informational?style=flat&logo=huggingface&logoColor=white&color=2bbc8a)
+![LangChain](https://img.shields.io/badge/LangChain-informational?style=flat&logo=langchain&logoColor=white&color=2bbc8a)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-informational?style=flat&color=2bbc8a)
+![RAG](https://img.shields.io/badge/RAG-informational?style=flat&color=2bbc8a)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-informational?style=flat&color=2bbc8a)
+![Pinecone](https://img.shields.io/badge/Pinecone-informational?style=flat&logo=pinecone&logoColor=white&color=2bbc8a)
+![FAISS](https://img.shields.io/badge/FAISS-informational?style=flat&color=2bbc8a)
+![Transformers](https://img.shields.io/badge/Transformers-informational?style=flat&logo=huggingface&logoColor=white&color=2bbc8a)
+
+**Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2bbc8a)
+
+**Backend & API**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
+![NestJS](https://img.shields.io/badge/NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
+![REST APIs](https://img.shields.io/badge/REST_APIs-informational?style=flat&color=2bbc8a)
+![Microservices](https://img.shields.io/badge/Microservices-informational?style=flat&color=2bbc8a)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![Next.js](https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-informational?style=flat&color=2bbc8a)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+
+**Version Control**
+
+![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 ---
 
@@ -59,6 +105,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adi-ydv-1&theme=dark&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a" alt="GitHub Streak" />
-</p>
