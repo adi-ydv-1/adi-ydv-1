@@ -98,7 +98,18 @@
 
 <p align="center">
   <a href="https://github.com/adi-ydv-1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adi-ydv-1&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false&rank_icon=default&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aditya's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adi-ydv-1&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false&rank_icon=github&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" alt="Aditya's GitHub Stats" />
   </a>
+  <a href="https://github.com/adi-ydv-1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi-ydv-1&layout=compact&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adi-ydv-1&theme=dark&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adi-ydv-1&bg_color=1d1f21&color=c9cacc&line=2bbc8a&point=2bbc8a&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
