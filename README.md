@@ -98,9 +98,6 @@
 
 <p align="center">
   <a href="https://github.com/adi-ydv-1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adi-ydv-1&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false&rank_icon=github&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" alt="Aditya's GitHub Stats" />
-  </a>
-  <a href="https://github.com/adi-ydv-1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi-ydv-1&layout=compact&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" alt="Top Languages" />
   </a>
 </p>
